@@ -30,8 +30,7 @@ Then I will sms to me by using my friend number
 ![IMG_20171220_095720.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1513743088/cu8dkitljmnkylqego9w.png)
 then tap fake.
 Final Result 
-![Screenshot_2017-12-20-09-36-05-775_com.android.mms.png
-(https://res.cloudinary.com/hpiynhbhq/image/upload/v1513743149/pwyk6sexyagvhb6l8rpg.png)
+![Screenshot_20171220_093605775_com.android.mms.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1513743149/pwyk6sexyagvhb6l8rpg.png)
 
 Really it's very funny and good application..
 
